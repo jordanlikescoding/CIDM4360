@@ -1,5 +1,5 @@
 # Changelog
-**Author: Jordan Nguyen
+Author: Jordan Nguyen
 
 All notable changes to this project will be documented in this file.
 
